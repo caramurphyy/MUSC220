@@ -177,6 +177,7 @@ a:active {
     border-radius:1rem;
     line-height: 2vw;
     width: 50%;
+    font-family:'Lucida Sans', sans-serif;
 }
 
 .image-container{
@@ -185,12 +186,14 @@ a:active {
     padding: 1vw;
     border-radius:1rem;
     width: 50%;
+    align-self: center;
 }
 
 .image{
     object-fit: contain;
     width: 100%;
     border-radius: 1rem;
+    align-items: center;
 }
 
 .video{
