@@ -13,11 +13,11 @@ body{
 }
 
 .landing-page{
-    background-image: url("/images/landing.png");
+    background-image: url("images/landing.png");
 }
 
 .other-page{
-    background-image: url("/images/long-page.png");
+    background-image: url("images/long-page.png");
 }
 /*
 *site header
